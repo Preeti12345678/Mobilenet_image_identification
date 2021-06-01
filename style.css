@@ -1,0 +1,56 @@
+body{
+    font-family: 'New Tegomin', serif;
+    background-color: rgb(235, 84, 84);
+}
+.header_div{
+    color: black;
+    background-color: white;
+}
+.header_div img{
+    width: 100px;
+}
+.main_div{
+    background-color:rgb(235, 84, 84);
+    padding: 10px;
+    margin-top: 15px;
+    border: 2px solid white;
+}
+.main_div label{
+    width: 310px;
+    padding: 10px;
+    margin-bottom: 0px;
+    box-shadow: 5px 5px 5px black;
+}
+#camera, #result{
+    border: 2px dashed black;
+    width: 350px;
+    height: 300px;
+    box-shadow: 5px 5px 5px 5px black;
+}
+.main_div button{
+    width: 310px;
+    font-size: 15px;
+    box-shadow: 5px 5px 5px black;
+}
+.footer_div{
+    margin-bottom: 50px;
+
+}
+.footer_div img{
+    width: 70px;
+}
+.footer_div h4{
+    background-color: white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 15px white;
+}
+.copy_right_footer{
+    position: fixed;
+    background-color: white;
+    color: black;
+    bottom: 0px;
+    width: 100%;
+    text-align: center;
+    line-height: 3;
+    height: 50px;
+}
